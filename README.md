@@ -42,4 +42,4 @@ python sample.py --data_path=shakespeare/ --n=1000
 
 ## Further samples
 
-The wikipedia ```bash train.txt``` can be get [here](https://mega.nz/#!Qa4z0DiL!BBNviuoNUN-awop3inFs_MyilijwLSy6O36-feGUMr8), and the linux ```bash train.txt``` can be get [here](https://mega.nz/#!9S5xhaIY!4_grlN6D3yPJYBCfiT_uR0N-tXkFlmHXWuafyL7KwaQ).
+The wikipedia ```train.txt``` can be obtained [here](https://mega.nz/#!Qa4z0DiL!BBNviuoNUN-awop3inFs_MyilijwLSy6O36-feGUMr8), and the linux ```train.txt``` can be obtained [here](https://mega.nz/#!9S5xhaIY!4_grlN6D3yPJYBCfiT_uR0N-tXkFlmHXWuafyL7KwaQ).
